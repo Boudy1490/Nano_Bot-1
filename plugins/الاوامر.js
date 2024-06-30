@@ -177,6 +177,6 @@ let handler = async (m, { command, text }) => {
 handler.help = ['المطور'];
 handler.help = ['اوامر <teks>?'];
 handler.tags = ['fun', 'اوامر'];
-handler.command = /^(كل-الاوامر)$/i;
+handler.command = /^(8)$/i;
 
 export default handler;
